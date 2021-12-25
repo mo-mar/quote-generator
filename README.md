@@ -1,5 +1,9 @@
 # random-quotes
 
+A super simple quote generator made with Vue. Live demo: https://epic-lumiere-eda441.netlify.app/
+
+All quotes pulled from here: https://github.com/lukePeavey/quotable
+
 ## Project setup
 ```
 npm install
